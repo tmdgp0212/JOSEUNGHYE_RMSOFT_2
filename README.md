@@ -12,10 +12,10 @@ rm소프트 2차과제 - 2 - 전달 된 도형 만들기
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/tmdgp0212/JOSEUNGHYE_RMSOFT_2/assets/112364408/257ff0cd-cc13-4b0e-a230-5dff75b4f321">
+      <img src="https://github.com/tmdgp0212/JOSEUNGHYE_RMSOFT_2/assets/112364408/833d6e38-4ab5-463e-8f23-102953bde2b1">
     </td>
     <td>
-      <img src="https://github.com/tmdgp0212/JOSEUNGHYE_RMSOFT_2/assets/112364408/1c683941-e8c9-41b7-b6a8-666017385f6c">
+      <img src="https://github.com/tmdgp0212/JOSEUNGHYE_RMSOFT_2/assets/112364408/f49cb816-a113-4eb1-9337-857465b51cc8">
     </td>
   </tr>
   <tr>
